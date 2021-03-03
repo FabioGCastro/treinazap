@@ -1,4 +1,4 @@
-name: Treinazap - PRD para S3 
+name: Deploy Treinazap - S3 
 
 on:
   push:
